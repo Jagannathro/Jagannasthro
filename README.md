@@ -35,8 +35,9 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 
 ---
 ## **Dashboard**
-|![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/PWC-Customer-Churn-Retention/blob/main/d3.png)|
+![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/PWC-Customer-Churn-Retention/blob/main/d3.png)
 
+![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/d1.png)
 ---
 
 ## **Education**
@@ -47,24 +48,21 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 ---
 
 ## **Certificates**
-- [Skillovila Data Analytics Professional Certificate](https://github.com/SagarKarjagi/SagarKarjagi/blob/main/Sagar_Anlayst_certificate.pdf) (2024)
-- [HackerRank SQL Certificate](https://www.hackerrank.com/profile/sagarpk1998)
+- [Skillovila Data Analytics Professional Certificate](https://github.com/Jagannathro/All-Certificates/blob/main/certificate.pdf) (2025)
+- [Vertual Internship by Accenture](https://github.com/Jagannathro/All-Certificates/blob/main/Accenture%20North%20America_completion_certificate.pdf) (2024)
+-[Vertual Internship on Power BI by PWC](https://github.com/Jagannathro/All-Certificates/blob/main/PWC_completion_certificate.pdf)
 
 ---
 
 ## **Experience**
-- **Associate Pharmacovigilance**, Elanco, Bengaluru (Feb 2023 - Jan 2024)
-  - **Skills**: Power BI, Advanced Excel, Data Processing, SQL.
+- ** Centralized Monitoring Assistent**, IQVIA, Bengaluru (June 2023 )
+  - **Skills**: Power BI, Advanced Excel, Data Processing, Data Mining.
 
 ---
 
 ## **Contact**
-- 📧 **Email**: sagarpk1998@gmail.com
+- 📧 **Email**:jagannath.royg@gmail.com                      
 - 💼 **LinkedIn**: [@JAGANNATH](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3ByknNXCjbRb%2BPxbUObwSucg%3D%3D)
-
-
-# 💻 Tech Stack:
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
