@@ -9,26 +9,15 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 
 ## **Skills**
 -  **[Python](https://github.com/Jagannathro/Capstone_Python)**
--  **[SQL](https://github.com/SagarKarjagi/SQL)**
--  **[Power BI](https://github.com/SagarKarjagi/Power-BI)**
--  **[Excel](https://github.com/SagarKarjagi/Excel)**
-
-
-![Python](https://github.com/Jagannathro/Capstone_Python) 
----
-
-## **Table of Contents**
-- [About Me](#about-me)
-- [Portfolio Projects](#portfolio-projects)
-- [Education](#education)
-- [Certificates](#certificates)
-- [Contact](#contact)
+-  **[SQL](https://github.com/Jagannathro/SQL_Project)**
+-  **[Power BI](https://github.com/Jagannathro/Diversity-and-Inclusion)**
+-  **[Excel](https://github.com/Jagannathro/Excel-Project)**
 
 ---
 
 ## **Portfolio Projects**
 ### **1. Created Own DataFrame using Python**
-- **Code**: [Jupyter Notebook](https://github.com/SagarKarjagi/Python/blob/main/Python%20Capstone%20project.ipynb)
+- **Code**: [Jupyter Notebook]([https://github.com/SagarKarjagi/Python/blob/main/Python%20Capstone%20project.ipynb](https://github.com/Jagannathro/Capstone_Python))
 - **Goal**: Practice Python libraries like **Pandas** and **NumPy**.
 - **Description**: Analyzed a dataset of employees focusing on projects, costs, designation levels, and project status. Implemented data cleaning, exploratory data analysis (EDA), and **Pearson's correlation analysis** to uncover key insights.
 - **Skills**: Data cleaning, EDA, statistical analysis, data visualization.
@@ -36,8 +25,8 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 - **Outcome**: The project helped in determining employee bonuses based on project status and performance.
 
 ---
-### **2. Airline Database (SQL Project)**
-- **Code**: [Airline Database Design](https://github.com/SagarKarjagi/SQL/blob/main/Airline%20Database.docx)
+### **2. SQL Project **
+- **Code**: [Airline Database Design]([https://github.com/SagarKarjagi/SQL/blob/main/Airline%20Database.docx](https://github.com/Jagannathro/SQL_Project))
 - **Goal**: Develop a **SQL database** to store and manage airline data efficiently.
 - **Description**: Designed and normalized database schemas. Implemented complex SQL queries involving joins, subqueries, and aggregate functions to analyze flight and passenger data.
 - **Skills**: Database design, SQL queries, data aggregation.
@@ -47,21 +36,20 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 ---
 ### **3. Cricket Dashboard Analysis (Power BI Project)**
 - **Code**: [Cricket Dashboard in Power BI](https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.pbix)
-- **Goal**: Create an interactive dashboard to visualize cricket match data.
-- **Description**: Developed a dynamic **Power BI dashboard** with Python for preprocessing. The dashboard provided key insights by segmenting match stages into **'Qualifier'** and **'Super 12'**.
+- **Goal**: Shop Nest needed a way to analyze sales performance and operational trends to support over 500 small businesses.
+- **Description**:Designed interactive visualizations, including bar charts, line graphs, and heat maps, to showcase insights such as payment preferences, revenue growth, and state-wise trends.
 - **Skills**: Data visualization, dashboard creation, data cleaning.
-- **Tools Used**: Power BI, Python.
+- **Tools Used**: Power BI.
 - **Outcome**: The interactive dashboard enhanced data-driven decision-making for match stages.
   
-<img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.png" alt="Left Image" width="310" height="240"/>  <img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Players_details.png" alt="Center Image" width="310" height="240"/>  <img src="https://github.com/SagarKarjagi/Power-BI/blob/main/Final_11%20players.png" alt="Right Image" width="310" height="240"/>
+<img src="[https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.png](https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/d1.png)" alt="Left Image" width="310" height="240"/> 
 
 ---
 
 ## **Education**
-- **Data Analyst with Python**, Skillovila, Bengaluru (Jan 2024 - Aug 2024)
-- **Master of Pharmacy (Pharmaceutics)**, PES University, Bengaluru (Nov 2020 - Aug 2022)
-- **Bachelor of Pharmacy**, KLE College of Pharmacy, Hubli (Aug 2016 - Sep 2020)
-- **Pre University**, Physics, Biology, Science, and Mathematics, Davangere (2014 - 2016)
+- **Data Analyst with Python**, Skillovila, Bengaluru (Jul 2024 - Jan 2025)
+- **Master of Pharmacy (Pharmaceutics)**, PES University, Bangalore (Nov 2021 - Aug 2023)
+- **Bachelor of Pharmacy**, RGUOHS, Bangalore (Aug 2017 - Sep 2021)
 
 ---
 
