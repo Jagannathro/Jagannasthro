@@ -1,5 +1,5 @@
 ## **About Me**
-Hi, I'm **Jagannath **, a data-driven individual with a strong analytical background in **Pharmaceutics** and a passion for discovering insights through data analysis. Recently, I completed my certification in **Data Analytics with Python**, equipping me with valuable skills in data management, statistical analysis, and data visualization. 
+Hi, I'm Jagannath, a data-driven individual with a strong analytical background in **Pharmaceutics** and a passion for discovering insights through data analysis. Recently, I completed my certification in **Data Analytics with Python**, equipping me with valuable skills in data management, statistical analysis, and data visualization. 
 
 In my free time, I enjoy learning new data analysis tools, and I am always on the lookout for opportunities to expand my knowledge. I thrive on solving complex problems through data, whether it's working independently or in a team.
 
@@ -34,15 +34,8 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 - **Outcome**: Improved data accessibility and reporting accuracy, providing insights into **operational efficiency** and **customer satisfaction**.
 
 ---
-### **3. Cricket Dashboard Analysis (Power BI Project)**
-- **Code**: [Cricket Dashboard in Power BI](https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.pbix)
-- **Goal**: Shop Nest needed a way to analyze sales performance and operational trends to support over 500 small businesses.
-- **Description**:Designed interactive visualizations, including bar charts, line graphs, and heat maps, to showcase insights such as payment preferences, revenue growth, and state-wise trends.
-- **Skills**: Data visualization, dashboard creation, data cleaning.
-- **Tools Used**: Power BI.
-- **Outcome**: The interactive dashboard enhanced data-driven decision-making for match stages.
-  
-<img src="[https://github.com/SagarKarjagi/Power-BI/blob/main/Cricket_Dashboard.png](https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/d1.png)" alt="Left Image" width="310" height="240"/> 
+## **Dashboard**
+|![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/PWC-Customer-Churn-Retention/blob/main/d3.png)|
 
 ---
 
