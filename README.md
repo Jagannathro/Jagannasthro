@@ -1,23 +1,20 @@
-
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
-
 ## **About Me**
-Hi, I'm **Sagar Karjagi**, a data-driven individual with a strong analytical background in **Pharmaceutics** and a passion for discovering insights through data analysis. Recently, I completed my certification in **Data Analytics with Python**, equipping me with valuable skills in data management, statistical analysis, and data visualization. 
+Hi, I'm **Jagannath **, a data-driven individual with a strong analytical background in **Pharmaceutics** and a passion for discovering insights through data analysis. Recently, I completed my certification in **Data Analytics with Python**, equipping me with valuable skills in data management, statistical analysis, and data visualization. 
 
 In my free time, I enjoy learning new data analysis tools, and I am always on the lookout for opportunities to expand my knowledge. I thrive on solving complex problems through data, whether it's working independently or in a team.
-
-📄 **[My CV (PDF)](https://github.com/SagarKarjagi/SagarKarjagi/blob/main/Sagar_Karjagi.pdf)**
 
 This repository showcases my skills, projects, and progress in the **Data Analytics** field.
 
 ---
 
 ## **Skills**
--  **[Python](https://github.com/SagarKarjagi/Python)**
+-  **[Python](https://github.com/Jagannathro/Capstone_Python)**
 -  **[SQL](https://github.com/SagarKarjagi/SQL)**
 -  **[Power BI](https://github.com/SagarKarjagi/Power-BI)**
 -  **[Excel](https://github.com/SagarKarjagi/Excel)**
 
+
+![Python](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ---
 
 ## **Table of Contents**
