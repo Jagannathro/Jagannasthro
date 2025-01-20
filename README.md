@@ -17,7 +17,7 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 
 ## **Portfolio Projects**
 ### **1. Created Own DataFrame using Python**
-- **Code**: [Jupyter Notebook]([https://github.com/SagarKarjagi/Python/blob/main/Python%20Capstone%20project.ipynb](https://github.com/Jagannathro/Capstone_Python))
+- **Code**: [Jupyter Notebook](https://github.com/Jagannathro/Capstone_Python)
 - **Goal**: Practice Python libraries like **Pandas** and **NumPy**.
 - **Description**: Analyzed a dataset of employees focusing on projects, costs, designation levels, and project status. Implemented data cleaning, exploratory data analysis (EDA), and **Pearson's correlation analysis** to uncover key insights.
 - **Skills**: Data cleaning, EDA, statistical analysis, data visualization.
@@ -26,7 +26,7 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 
 ---
 ### ** 2. SQL Project **
-- **Code**: [Airline Database Design]([https://github.com/SagarKarjagi/SQL/blob/main/Airline%20Database.docx](https://github.com/Jagannathro/SQL_Project))
+- **Code**: [Airline Database Design](https://github.com/Jagannathro/SQL_Project)
 - **Goal**: Develop a **SQL database** to store and manage airline data efficiently.
 - **Description**: Designed and normalized database schemas. Implemented complex SQL queries involving joins, subqueries, and aggregate functions to analyze flight and passenger data.
 - **Skills**: Database design, SQL queries, data aggregation.
@@ -34,7 +34,7 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 - **Outcome**: Improved data accessibility and reporting accuracy, providing insights into **operational efficiency** and **customer satisfaction**.
 
 ---
-## **Dashboard**
+## **Power BI Dashboard**
 ![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/PWC-Customer-Churn-Retention/blob/main/d3.png)
 
 ![PWC Task 2-Customer Churn Retenstion_page-0002](https://github.com/Jagannathro/Shopnest_Data_Analysis__by_Powerbi/blob/main/d1.png)
@@ -43,14 +43,14 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 ## **Education**
 - **Data Analyst with Python**, Skillovila, Bengaluru (Jul 2024 - Jan 2025)
 - **Master of Pharmacy (Pharmaceutics)**, PES University, Bangalore (Nov 2021 - Aug 2023)
-- **Bachelor of Pharmacy**, RGUOHS, Bangalore (Aug 2017 - Sep 2021)
+- **Bachelor of Pharmacy**, RGUHS, Bangalore (Aug 2017 - Sep 2021)
 
 ---
 
 ## **Certificates**
 - [Skillovila Data Analytics Professional Certificate](https://github.com/Jagannathro/All-Certificates/blob/main/certificate.pdf) (2025)
 - [Vertual Internship by Accenture](https://github.com/Jagannathro/All-Certificates/blob/main/Accenture%20North%20America_completion_certificate.pdf) (2024)
--[Vertual Internship on Power BI by PWC](https://github.com/Jagannathro/All-Certificates/blob/main/PWC_completion_certificate.pdf)
+- [Vertual Internship on Power BI by PWC](https://github.com/Jagannathro/All-Certificates/blob/main/PWC_completion_certificate.pdf) (2024)
 
 ---
 
