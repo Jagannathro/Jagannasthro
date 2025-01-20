@@ -25,7 +25,7 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 - **Outcome**: The project helped in determining employee bonuses based on project status and performance.
 
 ---
-### **2. SQL Project **
+### ** 2. SQL Project **
 - **Code**: [Airline Database Design]([https://github.com/SagarKarjagi/SQL/blob/main/Airline%20Database.docx](https://github.com/Jagannathro/SQL_Project))
 - **Goal**: Develop a **SQL database** to store and manage airline data efficiently.
 - **Description**: Designed and normalized database schemas. Implemented complex SQL queries involving joins, subqueries, and aggregate functions to analyze flight and passenger data.
@@ -60,7 +60,7 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 
 ## **Contact**
 - 📧 **Email**: sagarpk1998@gmail.com
-- 💼 **LinkedIn**: [@SagarKarjagi](https://www.linkedin.com/in/sagarkarjagi/)
+- 💼 **LinkedIn**: [@JAGANNATH](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3ByknNXCjbRb%2BPxbUObwSucg%3D%3D)
 
 
 # 💻 Tech Stack:
