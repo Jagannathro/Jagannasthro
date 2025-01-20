@@ -14,7 +14,7 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 -  **[Excel](https://github.com/SagarKarjagi/Excel)**
 
 
-![Python](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Python](https://github.com/Jagannathro/Capstone_Python) 
 ---
 
 ## **Table of Contents**
