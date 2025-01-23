@@ -8,10 +8,16 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 ---
 
 ## **Skills**
--  **[Python](https://github.com/Jagannathro/Capstone_Python)**
--  **[SQL](https://github.com/Jagannathro/SQL_Project)**
--  **[Power BI](https://github.com/Jagannathro/Diversity-and-Inclusion)**
--  **[Excel](https://github.com/Jagannathro/Excel-Project)**
+# Languages and Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -55,14 +61,19 @@ This repository showcases my skills, projects, and progress in the **Data Analyt
 ---
 
 ## **Experience**
-- ** Centralized Monitoring Assistent**, IQVIA, Bengaluru (June 2023 )
-  - **Skills**: Power BI, Advanced Excel, Data Processing, Data Mining.
+- **Centralized Monitoring Assistent**, IQVIA, Bengaluru (June 2023 )
+- **Skills**: Power BI, Advanced Excel, Data Processing, Data Mining.
 
 ---
-
 ## **Contact**
-- 📧 **Email**:jagannath.royg@gmail.com                      
-- 💼 **LinkedIn**: [@JAGANNATH](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3ByknNXCjbRb%2BPxbUObwSucg%3D%3D)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagannath.royg@gmail.com)  
+[![Phone](https://img.shields.io/badge/Phone-6363696315-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+6363696315)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3ByknNXCjbRb%2BPxbUObwSucg%3D%3D)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white)](https://jagannathro.github.io/jagannath.githu.io/)  
+[![My CV](https://img.shields.io/badge/My%20CV-0F9D58?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/14Td-2TlX-I5ywze_JO4-9iYkZqb9E2e3?usp=drive_link)
+
+
+--- 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
